@@ -1,3 +1,35 @@
+Octane Blender Add-on License  
+GNU General Public License v3.0 + Non-Commercial Addendum
+
+Copyright (c) 2025 TrevisCloud
+
+This project is released under the GNU General Public License v3.0 (GPLv3) 
+with the following additional condition:
+
+1. **Non-Commercial Restriction**  
+   You may not sell, license for a fee, or commercially exploit this software 
+   or any derivative works. This includes distributing modified or unmodified 
+   versions in paid products, subscription services, marketplaces, platforms, 
+   bundles, or any form of commercial offering.
+
+2. **Attribution Requirement**  
+   Any redistribution or modification must clearly credit the original author.  
+   A notice must be included that states:  
+   "Based on the work of Your Name."
+
+3. **Copyleft Requirement**  
+   Any modified version, fork, or derivative work must be released under the 
+   same license:  
+   **GNU GPLv3 + Non-Commercial Addendum**  
+   This ensures all modified versions remain fully open source and non-commercial.
+
+4. **Open Access Requirement**  
+   Any derivative work you distribute must make its complete source code 
+   publicly accessible under the same terms.
+
+Except where otherwise stated in this addendum, the terms of the GNU GPLv3 
+apply in full.
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
